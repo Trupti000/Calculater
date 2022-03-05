@@ -1,0 +1,47 @@
+.row h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 900;
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Acme', sans-serif;
+font-family: 'Akaya Telivigala', cursive;
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Bebas Neue', cursive;
+font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Concert One', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Fredoka', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Redressed', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 5%;
+    max-width: 100%;
+    position: relative;
+    background: #c31432;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.nums{
+    color: white;
+}
+.alert{
+    width: 10%;
+    height: 10%;
+}
